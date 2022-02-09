@@ -1,7 +1,5 @@
 {
-    "ENV": "production",
-    "EndPoint": "202.157.176.143",
-    "MinIOURL": "http://202.157.176.143:9000",
+    "MinIO_EndPoint": "assets.humanz.moe",
     "accessKey": "yVYKIZUY4NcuQI4HWAh0SiI4uOqZyy16",
     "secretKey": "keiCsL017yWvRaSaG8J5GB896dKtQ91x"
 }
